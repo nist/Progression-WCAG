@@ -1,29 +1,29 @@
-#Propositions
+# Propositions
 
-##Fichier Excel
+## Fichier Excel
 
 [Exemple](www.cmq.gouv.qc.ca-Commission-municipale-du-Quebec-2022-06-01.xlsx)
 
-###Avantages
+### Avantages
 
 - Solution simple
 - Outil connu
 
-###Inconvénients
+### Inconvénients
 
 - Inefficace
 - Sujet aux erreurs (gestion manuelles)
 
-##Outil de gestion de projet
+## Outil de gestion de projet
 
 [Exemple GitLab](https://gitlab.com/cmq1/Accessibiliteweb/-/boards)
 
-###Avantages
+### Avantages
 
 - Efficace
 - Réutilisable (gestion du développement du site web)
 
-###Inconvénients
+### Inconvénients
 
 - Nécessite un apprentissage
 - Peut nécessiter l'achat d'une license
