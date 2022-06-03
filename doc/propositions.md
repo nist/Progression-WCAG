@@ -2,6 +2,8 @@
 
 ## Fichier Excel
 
+![Excel](../images/excel.png)
+
 [Exemple](www.cmq.gouv.qc.ca-Commission-municipale-du-Quebec-2022-06-01.xlsx)
 
 ### Avantages
@@ -15,6 +17,9 @@
 - Sujet aux erreurs (gestion manuelles)
 
 ## Outil de gestion de projet
+
+![GitLab](../images/gitlab.png)
+
 
 [Exemple GitLab](https://gitlab.com/cmq1/Accessibiliteweb/-/boards)
 
