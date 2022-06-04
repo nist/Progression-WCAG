@@ -14,7 +14,7 @@
 ### Inconvénients
 
 - Inefficace
-- Sujet aux erreurs (gestion manuelles)
+- Sujet aux erreurs (gestion manuelle)
 
 ## Outil de gestion de projet
 
@@ -26,9 +26,9 @@
 ### Avantages
 
 - Efficace
-- Réutilisable (gestion du développement du site web)
+- Réutilisable pour d'autres tâches (exemple : gestion du développement du site web)
 
 ### Inconvénients
 
-- Nécessite un apprentissage
+- Requiert un apprentissage
 - Peut nécessiter l'achat d'une license
