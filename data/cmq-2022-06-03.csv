@@ -1,0 +1,773 @@
+title,description
+"Buttons must have discernible text: <button role=""button"" class=""owl-dot""><span></span></button>","Fix any of the following:
+  Element does not have inner text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Buttons must have discernible text: <button role=""button"" class=""owl-dot active""><span></span></button>","Fix any of the following:
+  Element does not have inner text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Buttons must have discernible text: <button role=""button"" class=""owl-dot active""><span></span></button>","Fix any of the following:
+  Element does not have inner text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Buttons must have discernible text: <button role=""button"" class=""owl-dot""><span></span></button>","Fix any of the following:
+  Element does not have inner text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Elements must have sufficient color contrast: <div class=""listS1ItemCatName"" style=""color:#DEC352"">Enquêtes et poursuites</div>","Fix any of the following:
+  Element has insufficient color contrast of 1.74 (foreground color: #dec352, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+"Elements must have sufficient color contrast: <div class=""subtitle"">Ligne sans frais :</div>","Fix any of the following:
+  Element has insufficient color contrast of 3.44 (foreground color: #bcbec0, background color: #5c5f62, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+"id attribute value must be unique: <li id=""tab1"" class=""tab first active"">
+              <a href=""fr"">Accueil</a>
+          </li>","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab1"
+"id attribute value must be unique: <li id=""tab6"" class=""tab first"">
+              <a href=""fr/nous-joindre"">Nous joindre</a>
+          </li>","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab6"
+"id attribute value must be unique: <li id=""tab4"" class=""tab first"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab4"
+"id attribute value must be unique: <ul class=""subnav"" id=""subnav_4"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav_4"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_117"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_117"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_119"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_119"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_118"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_118"
+"id attribute value must be unique: <li id=""tab439"" class=""tab"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab439"
+"id attribute value must be unique: <ul class=""subnav"" id=""subnav_439"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav_439"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_442"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_442"
+"id attribute value must be unique: <li id=""tab8"" class=""tab"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab8"
+"id attribute value must be unique: <ul class=""subnav"" id=""subnav_8"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav_8"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_173"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_173"
+"id attribute value must be unique: <li id=""tab109"" class=""tab"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab109"
+"id attribute value must be unique: <ul class=""subnav"" id=""subnav_109"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav_109"
+"id attribute value must be unique: <li id=""tab107"" class=""tab"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab107"
+"id attribute value must be unique: <ul class=""subnav"" id=""subnav_107"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav_107"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_330"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_330"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_181"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_181"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_182"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_182"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_183"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_183"
+"id attribute value must be unique: <li id=""tab110"" class=""tab last"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: tab110"
+"id attribute value must be unique: <ul class=""subnav"" id=""subnav_110"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav_110"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_405"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_405"
+"id attribute value must be unique: <ul class=""subnav2"" id=""subnav2_412"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: subnav2_412"
+"id attribute value must be unique: <div class=""content-bloc home-header"" id=""content-bloc1"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: content-bloc1"
+"id attribute value must be unique: <div class=""content-bloc"" id=""content-bloc1b"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: content-bloc1b"
+"id attribute value must be unique: <div id=""listS1Container"" class=""shortcuts owl-carousel owl-theme owl-loaded owl-drag"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1Container"
+"id attribute value must be unique: <div class=""listS1ItemContainer"" id=""listS1ItemContainer24"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1ItemContainer24"
+"id attribute value must be unique: <div class=""listS1ItemContainer"" id=""listS1ItemContainer21"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1ItemContainer21"
+"id attribute value must be unique: <div class=""listS1ItemContainer"" id=""listS1ItemContainer22"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1ItemContainer22"
+"id attribute value must be unique: <div class=""listS1ItemContainer"" id=""listS1ItemContainer23"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1ItemContainer23"
+"id attribute value must be unique: <div class=""listS1ItemContainer"" id=""listS1ItemContainer25"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1ItemContainer25"
+"id attribute value must be unique: <div class=""listS1ItemContainer"" id=""listS1ItemContainer20"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: listS1ItemContainer20"
+"id attribute value must be unique: <div class=""col-md-2"" id=""col1"">","Fix any of the following:
+  Document has multiple static elements with the same id attribute: col1"
+"Images must have alternate text: <img src=""/contentFiles/images/icone2.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/CARROUSSEL_accueil_accompagne.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone3_v2.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/CARROUSSEL_accueil_taxes_exemption.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/A14558_Caroussel_Enquetes_Poursuites_639x591.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone7.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/shortcut-ethique-deontologie.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/image_formation_website.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/shortcut-audit-municipal.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone2.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/CARROUSSEL_accueil_accompagne.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone3_v2.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/CARROUSSEL_accueil_taxes_exemption.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/A14558_Caroussel_Enquetes_Poursuites_639x591.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone7.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/shortcut-ethique-deontologie.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/image_formation_website.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Links must have discernible text: <a href=""fr/enquetes-et-poursuites/le-mandat"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/shortcut-audit-municipal.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone2.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/guides/video-1.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/guides/guide-procedure-traitement-divulgations-actes-reprehensibles.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/guides/guide-5-thumb.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Links must have discernible text: <a href=""fr/tribunal-administratif/ethique-et-deontologie-municipales"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Images must have alternate text: <img src=""/contentFiles/images/guides/video-2-thumb.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""img/icon-calendar.svg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""img/logo-quebec.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Links must have discernible text: <a href=""https://www.cmq.gouv.qc.ca/fr/service-en-ligne-et-publications/ethique/formation-en-ethique"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/verification-municipale/l-abc-de-l-audit-municipal"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/mediation-et-mandats-speciaux/accompagnement"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/tribunal-administratif/exemption-de-taxes-municipales-et-revision"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/enquetes-et-poursuites/le-mandat"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/tribunal-administratif/exemption-de-taxes-municipales-et-revision"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""https://www.cmq.gouv.qc.ca/fr/service-en-ligne-et-publications/ethique/formation-en-ethique"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/verification-municipale/l-abc-de-l-audit-municipal"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/mediation-et-mandats-speciaux/accompagnement"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""https://www.cmq.gouv.qc.ca/fr/service-en-ligne-et-publications/ethique/formation-en-ethique"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/verification-municipale/l-abc-de-l-audit-municipal"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""fr/tribunal-administratif/ethique-et-deontologie-municipales"">","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""https://www.linkedin.com/company/commission-municipale-du-quebec/"" target=""_blank""><i class=""fab fa-linkedin-in"" aria-hidden=""true""></i></a>","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""https://twitter.com/Gouv_CMQ"" target=""_blank""><i class=""fab fa-twitter"" aria-hidden=""true""></i></a>","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"Links must have discernible text: <a href=""https://www.quebec.ca"" target=""_blank""><img src=""img/logo-quebec.png""></a>","Fix all of the following:
+  Element is in tab order and does not have accessible text
+
+Fix any of the following:
+  Element does not have text that is visible to screen readers
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute"
+"ARIA role should be appropriate for the element: <button type=""button"" role=""presentation"" class=""owl-prev""><span aria-label=""Previous"">‹</span></button>","Fix any of the following:
+  ARIA role presentation is not allowed for given element"
+"ARIA role should be appropriate for the element: <button type=""button"" role=""presentation"" class=""owl-next""><span aria-label=""Next"">›</span></button>","Fix any of the following:
+  ARIA role presentation is not allowed for given element"
+"ARIA role should be appropriate for the element: <button type=""button"" role=""presentation"" class=""owl-prev""><span aria-label=""Previous"">‹</span></button>","Fix any of the following:
+  ARIA role presentation is not allowed for given element"
+"ARIA role should be appropriate for the element: <button type=""button"" role=""presentation"" class=""owl-next""><span aria-label=""Next"">›</span></button>","Fix any of the following:
+  ARIA role presentation is not allowed for given element"
+"Document should have one main landmark: <html lang=""fr"">","Fix all of the following:
+  Document does not have a main landmark"
+"Ensures landmarks are unique: <nav class=""second-nav"" role=""navigation"">","Fix any of the following:
+  The landmark must have a unique aria-label, aria-labelledby, or title to make landmarks distinguishable"
+"Zooming and scaling should not be disabled: <meta name=""viewport"" content=""width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"">","Fix any of the following:
+  user-scalable=no on <meta> tag disables zooming on mobile devices"
+"Elements of role none or presentation should be flagged: <button type=""button"" role=""presentation"" class=""owl-prev""><span aria-label=""Previous"">‹</span></button>","Fix all of the following:
+  Element is not focusable."
+"Elements of role none or presentation should be flagged: <button type=""button"" role=""presentation"" class=""owl-next""><span aria-label=""Next"">›</span></button>","Fix all of the following:
+  Element is not focusable."
+"Elements of role none or presentation should be flagged: <button type=""button"" role=""presentation"" class=""owl-prev""><span aria-label=""Previous"">‹</span></button>","Fix all of the following:
+  Element is not focusable."
+"Elements of role none or presentation should be flagged: <button type=""button"" role=""presentation"" class=""owl-next""><span aria-label=""Next"">›</span></button>","Fix all of the following:
+  Element is not focusable."
+"All page content should be contained by landmarks: <span id=""specialInfoBtn"" onclick=""closeSpecialInfo()""><i class=""fas fa-info-circle"" aria-hidden=""true""></i> COVID-19 : Informations sur nos services</span>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <h1 class=""""><p><span style=""font-size:68px;"">Bienvenue</span></p>
+
+<p><span style=""font-size:27px;"">à la Commission municipale du Québec</span></p>
+</h1>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <p>Faire une<br>
+divulgation<br>
+en ligne</p>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <p>Demander<br>
+une exemption<br>
+de taxes</p>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer24"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer21"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer22"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer23"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer25"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer20"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer24"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer21"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer22"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer23"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer25"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer20"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer24"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemContainer"" id=""listS1ItemContainer21"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""row"">
+                <div class=""col-md-12""><h2>Nouvelles</h2></div>
+            </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-rend-publics-ses-deux-rapports-d-audit-sur-la-transmission-des-rapports-financiers"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-publie-un-portrait-des-municipalites-regionales-de-comte-mrc"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-du-quebec-rend-public-un-rapport-d-audit-d-envergure-sur-le-programme-triennal-d-immobilisations-"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-se-rejouit-de-l-adoption-du-projet-de-loi-49"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/toutes-les-actualites/la-commission-participe-au-53e-congres-de-la-comaq"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-realise-un-audit-de-performance-portant-sur-la-gestion-des-plaintes-par-les-municipalites"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-tiendra-une-consultation-publique-sur-la-demande-de-changement-de-nom-de-la-mrc-robert-cliche"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/commission-municipale-du-quebec-creation-de-la-direction-des-enquetes-et-des-poursuites-en-integrite-municipale-"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-rend-publics-ses-deux-rapports-d-audit-sur-la-transmission-des-rapports-financiers"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-publie-un-portrait-des-municipalites-regionales-de-comte-mrc"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-du-quebec-rend-public-un-rapport-d-audit-d-envergure-sur-le-programme-triennal-d-immobilisations-"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-se-rejouit-de-l-adoption-du-projet-de-loi-49"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/toutes-les-actualites/la-commission-participe-au-53e-congres-de-la-comaq"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-realise-un-audit-de-performance-portant-sur-la-gestion-des-plaintes-par-les-municipalites"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-tiendra-une-consultation-publique-sur-la-demande-de-changement-de-nom-de-la-mrc-robert-cliche"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""listS1ItemInfos"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <a href=""fr/la-commission/salle-de-presse/commission-municipale-du-quebec-creation-de-la-direction-des-enquetes-et-des-poursuites-en-integrite-municipale-"">Consulter</a>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""row"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""col-md-2"" id=""col1"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guidesCat"">La Commission</div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/GuideDivulgateur.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">
+                                        La déontologie municipale                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guidesCat"">Tribunal administratif</div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/guide-3-thumb.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">
+                                        Le conflit d'intérêt                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/Taxes_Couv.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">
+                                        L'exemption de taxes                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/video-1.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">
+                                        L’éthique et la déontologie en matière municipale                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guidesCat guidesCat3"">Enquêtes et poursuites</div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/guide-procedure-traitement-divulgations-actes-reprehensibles.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guidesCat guidesCat2"">Vérification municipale</div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/guide-5-thumb.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">
+                                        Guide à l'intention des municipalités et des organismes audités                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <img src=""/contentFiles/images/guides/video-2-thumb.jpg"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""guideName"">
+                                        Comprendre l’audit municipal                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Some page content is not contained by landmarks"
+"All page content should be contained by landmarks: <div class=""content-bloc"" id=""content-bloc5"">","Fix any of the following:
+  Some page content is not contained by landmarks"
+"Elements must only use allowed ARIA attributes: <span aria-label=""Previous"">‹</span>","Fix all of the following:
+  aria-label attribute is not well supported on a span with no valid role attribute."
+"Elements must only use allowed ARIA attributes: <span aria-label=""Next"">›</span>","Fix all of the following:
+  aria-label attribute is not well supported on a span with no valid role attribute."
+"Elements must only use allowed ARIA attributes: <span aria-label=""Previous"">‹</span>","Fix all of the following:
+  aria-label attribute is not well supported on a span with no valid role attribute."
+"Elements must only use allowed ARIA attributes: <span aria-label=""Next"">›</span>","Fix all of the following:
+  aria-label attribute is not well supported on a span with no valid role attribute."
+"Elements must have sufficient color contrast: <span style=""font-size:68px;"">Bienvenue</span>","Fix any of the following:
+  Element's background color could not be determined because it is overlapped by another element"
+"Elements must have sufficient color contrast: <p>Faire une<br>
+divulgation<br>
+en ligne</p>","Fix any of the following:
+  Element's background color could not be determined because it is overlapped by another element"
+"Elements must have sufficient color contrast: <p>Demander<br>
+une exemption<br>
+de taxes</p>","Fix any of the following:
+  Element's background color could not be determined because it is overlapped by another element"
+"Elements must have sufficient color contrast: <div class=""listS1ItemDescription"">La Commission intervient dans le cadre d'un conflit qui nuit au bon fonctionnement de la municipalité. La Commission l'accompagne alors en recommandant certaines actions pour dénouer l'impasse qui semble perdurer.  &nbsp;</div>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <h2>Nouvelles</h2>","Fix any of the following:
+  Element background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <h2 class=""listS1ItemName"">La Commission municipale réalise un audit de performance portant sur la gestion des plaintes par les municipalités</h2>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsDate"">19 mai 2022</div>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsExtract"">L’objectif de cette mission d’audit sera d’évaluer si les municipalités sont adéquatement outillées pour recevoir, traiter et faire le suivi des plaintes.</div>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-realise-un-audit-de-performance-portant-sur-la-gestion-des-plaintes-par-les-municipalites"">Consulter</a>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <h2 class=""listS1ItemName"">La Commission municipale tiendra une consultation publique sur la demande de changement de nom de la MRC Robert-Cliche</h2>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsDate"">18 mai 2022</div>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsExtract"">La Commission municipale précise les modalités qu’elle met en place pour tenir cette consultation publique.</div>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-tiendra-une-consultation-publique-sur-la-demande-de-changement-de-nom-de-la-mrc-robert-cliche"">Consulter</a>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <h2 class=""listS1ItemName"">Commission municipale du Québec : création de la Direction des enquêtes et des poursuites en intégrité municipale </h2>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsDate"">1er avril 2022</div>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsExtract"">","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <a href=""fr/la-commission/salle-de-presse/commission-municipale-du-quebec-creation-de-la-direction-des-enquetes-et-des-poursuites-en-integrite-municipale-"">Consulter</a>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <div class=""newsDate"">16 mars 2022</div>","Fix any of the following:
+  Element's background color could not be determined due to a background image"
+"Elements must have sufficient color contrast: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-rend-publics-ses-deux-rapports-d-audit-sur-la-transmission-des-rapports-financiers"">Consulter</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <h2 id=""guidesTitle"">Guides<br>et vidéos</h2>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div id=""guidesDescription"">Consulter, télécharger <br>et visionner <br>nos guides et vidéos</div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guidesCat"">La Commission</div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">
+                                        La déontologie municipale                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guidesCat"">Tribunal administratif</div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">
+                                        Le conflit d'intérêt                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">
+                                        L'exemption de taxes                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">
+                                        L’éthique et la déontologie en matière municipale                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guidesCat guidesCat3"">Enquêtes et poursuites</div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guidesCat guidesCat2"">Vérification municipale</div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">
+                                        Guide à l'intention des municipalités et des organismes audités                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <div class=""guideName"">
+                                        Comprendre l’audit municipal                                        <div class=""guideUnderline""></div>
+                                        </div>","Fix any of the following:
+  Element's background color could not be determined due to a background gradient"
+"Elements must have sufficient color contrast: <a href=""http://www.droitauteur.gouv.qc.ca/copyright.php"" target=""_blank"">© 2022 Gouvernement du Québec</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <a href=""fr/plan-du-site"">Plan du site</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <a href=""fr/carrieres"">Carrières</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <a href=""fr/lexique"">Lexique</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <a href=""fr/politique-de-confidentialite"">Politique de confidentialité</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Elements must have sufficient color contrast: <a href=""fr/accessibilite"">Accessibilité</a>","Fix any of the following:
+  Element's background color could not be determined because it's partially obscured by another element"
+"Links with the same name must have a similar purpose: <a href=""https://www.cmq.gouv.qc.ca/fr/service-en-ligne-et-publications/ethique/formation-en-ethique"" style=""background-color:#457ca1;border-color:#457ca1"">Consulter la section <i class=""fal fa-long-arrow-right"" aria-hidden=""true""></i></a>","Fix all of the following:
+  Check that links have the same purpose, or are intentionally ambiguous."
+"Links with the same name must have a similar purpose: <a href=""fr/la-commission/salle-de-presse/la-commission-municipale-rend-publics-ses-deux-rapports-d-audit-sur-la-transmission-des-rapports-financiers"">Consulter</a>","Fix all of the following:
+  Check that links have the same purpose, or are intentionally ambiguous."
+"Elements must have sufficient color contrast: <a href=""fr/enquetes-et-poursuites/le-mandat"" style=""background-color:#DEC352;border-color:#DEC352"">Consulter la section <i class=""fal fa-long-arrow-right"" aria-hidden=""true""></i></a>","Fix any of the following:
+  Element has insufficient color contrast of 1.74 (foreground color: #ffffff, background color: #dec352, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+"Elements must have sufficient color contrast: <div id=""text"">","Fix any of the following:
+  Element has insufficient color contrast of 3.37 (foreground color: #8a8c8e, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+"Elements must have sufficient color contrast: <div id=""months"">
+                                    De mai à juillet 2022                                    </div>","Fix any of the following:
+  Element has insufficient color contrast of 3.37 (foreground color: #8a8c8e, background color: #ffffff, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+"Elements must have sufficient color contrast: <div class=""subtitle"">Téléphone :</div>","Fix any of the following:
+  Element has insufficient color contrast of 3.44 (foreground color: #bcbec0, background color: #5c5f62, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/ENTETES_HI_sherbrooke.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/image_formation_website.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/icone1.png"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/accueil/shortcut-audit-municipal.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""img/icon-guides.png"" id=""iconGuides"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/guides/GuideDivulgateur.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/guides/guide-3-thumb.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
+"Images must have alternate text: <img src=""/contentFiles/images/guides/Taxes_Couv.jpg"">","Fix any of the following:
+  Element does not have an alt attribute
+  aria-label attribute does not exist or is empty
+  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty
+  Element has no title attribute
+  Element's default semantics were not overridden with role=""none"" or role=""presentation"""
