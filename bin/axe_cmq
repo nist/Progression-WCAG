@@ -1,0 +1,1 @@
+TMPDIR=$HOME/tmp axe www.cmq.gouv.qc.ca --browser firefox --save "cmq_$(date +"%Y-%m-%d").json"
