@@ -1,0 +1,2 @@
+jq '(.[] | .inapplicable | .[] | .description) | @csv' $1.json > $1.csv
+#jq -r 'map({description,help,helpUrl,id,impact,nodes,tags}) | (first | keys_unsorted) as $keys | map([to_entries[] | .value]) as $rows | $keys,$rows[] | @csv' $1.json > $1.csv
